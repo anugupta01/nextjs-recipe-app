@@ -1,4 +1,4 @@
-This is a [Next.js] 16.4.6 project.
+This is a Next.js 16.4.6 project.
 
 ## Getting Started
 
